@@ -1,0 +1,16 @@
+body {
+    background-color: Black;
+}
+#flex {
+    display: flex;
+    flex-direction: row;
+}
+nav {
+    background-color: Black;
+}
+main {
+    background-color : Black;
+}
+h1 {
+    color :Red;
+}
